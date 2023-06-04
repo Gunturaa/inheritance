@@ -1,0 +1,8 @@
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\bin\Debug\inheritance.exe.config
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\bin\Debug\inheritance.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\bin\Debug\inheritance.pdb
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\obj\Debug\inheritance.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\inheritance\inheritance\obj\Debug\inheritance.pdb
